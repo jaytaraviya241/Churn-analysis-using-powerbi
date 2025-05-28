@@ -13,7 +13,8 @@
 **🧠 Insight:**  
 > Over **50% of churners** were on **month-to-month contracts**, while 2-year contracts had a churn rate as low as **2.78%**.
 
-📸 _Screenshot: churn-overview.png_
+![image](https://github.com/user-attachments/assets/05006146-d0df-439b-bf04-35070df6ddc4)
+
 
 ---
 
@@ -27,7 +28,8 @@
 **🧠 Insight:**  
 > Seniors churn nearly **10% higher** than average. Customers aged 80+ churn at a rate of **52%**!
 
-📸 _Screenshot: demographic-insights.png_
+![image](https://github.com/user-attachments/assets/796ad0d8-ccd1-4d5b-ac24-244fd34834ff)
+
 
 ---
 
@@ -40,7 +42,10 @@
 - Bar Charts: Avg Support Calls by Churn Label
 - Data Usage vs Extra Charges
 
-📸 _Screenshot: geo-international-support.png_
+![image](https://github.com/user-attachments/assets/3269337e-c92a-4334-8c5c-aeaca6ccc912)
+![image](https://github.com/user-attachments/assets/65c8d6f5-16f2-4e30-8149-ea5e916393cd)
+
+
 
 #### 🎯 Key Insights:
 
@@ -106,7 +111,7 @@ This case study showcases how **Power BI** can be used not just for visualizing 
 
 ## 📬 Connect With Me
 
-- **LinkedIn**: [Jay Taraviya](https://www.linkedin.com/in/jay-taraviya)
+- **LinkedIn**: [Jay Taraviya](https://www.linkedin.com/in/jaytaraviya241)
 - **Calendly**: [Book a Chat](https://calendly.com/jay-taraviya1124/30min-1)
 - **Email**: jay.taraviya1124@gmail.com
 
